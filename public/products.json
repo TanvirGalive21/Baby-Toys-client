@@ -1,0 +1,44 @@
+[
+    {
+        "_id":"01",
+        "title": "Funskool Teddy",
+        "price": "500",
+        "description": "Indoor playsets encourage your children, from toddlers to first graders to play and pretend while developing their intellectual.",
+        "image": "https://i.ibb.co/7pC4JYx/1.png"
+    },
+    {
+        "_id":"02",
+        "title": "Baby Play Sets",
+        "price": "599",
+        "description": "Discover the best Bathing Accessories in Best Sellers. Find the top 100 most popular items in Amazon Beauty Best Sellers.",
+        "image": "https://i.ibb.co/rbmC23r/2.png"
+    },
+    {
+        "_id":"03",
+    "title": "Jigsaw Puzzles For Kids",
+    "price": "399",
+    "description": "Shop Target for newborn baby grooming kit you will love at great low prices. Safety 1st Baby Care Basics HealthGrooming Set.",
+    "image": "https://i.ibb.co/GTRyn91/3.png"
+    },
+    {
+    "_id":"04",
+    "title": "Bruder Toys Mini Ships",
+    "price": "180",
+    "description": "Best baby soap overall: Aveeno Baby Daily Moisture Wash & Shampoo · Best baby soap for dry skin: Eucerin Baby Wash & Shampoo ",
+    "image": "https://i.ibb.co/7zH23gn/4.png"
+    },
+    {
+    "_id":"05",
+    "title": "BaFunskool Teddy Pink",
+    "price": "600",
+    "description": "The Oily Baby oil dispenser from Vaisselle effortlessly blends French and Spanish traditions in a nod to antique ceramic artistry.",
+    "image": "https://i.ibb.co/7ygVPZ8/5.png"
+    },
+    {
+    "_id":"06",
+    "title": "Toys Box For Baby",
+    "price": "700",
+    "description": "Baby gift sets are an ideal gifting option for a baby shower or the first birthday of a little one.",
+    "image": "https://i.ibb.co/2FFpW5J/6.png"
+    }
+]
